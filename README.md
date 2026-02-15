@@ -66,25 +66,27 @@ Jute-Pest-Classification
 
 The system can accurately identify and classify 17 different jute pest species
 
- #  Pest Name  Category  Damage Type 
--------------------------------------
- 1  Beet Armyworm  Lepidoptera  Leaf feeder 
- 2  Black Hairy  Caterpillar  Defoliator 
- 3  Cutworm  Lepidoptera  Rootstem cutter 
- 4  Field Cricket  Orthoptera  Omnivorous 
- 5  Jute Aphid  Hemiptera  Sap sucker 
- 6  Jute Hairy  Caterpillar  Leaf feeder 
- 7  Jute Red Mite  Acari  Sap sucker 
- 8  Jute Semilooper  Lepidoptera  Defoliator 
- 9  Jute Stem Girdler  Coleoptera  Stem borer 
- 10  Jute Stem Weevil  Coleoptera  Stem borer 
- 11  Leaf Beetle  Coleoptera  Leaf feeder 
- 12  Mealybug  Hemiptera  Sap sucker 
- 13  Pod Borer  Lepidoptera  Podseed feeder 
- 14  Scopula Emissaria  Lepidoptera  Defoliator 
- 15  Termite  Isoptera  Woodcellulose feeder 
- 16  Termite odontotermes (Rambur)  Isoptera  Soilroot feeder 
- 17  Yellow Mite  Acari  Sap sucker 
+ ## Pest List
+
+| #  | Pest Name                       | Category    | Damage Type           |
+|----|--------------------------------|-------------|-----------------------|
+| 1  | Beet Armyworm                  | Lepidoptera | Leaf feeder           |
+| 2  | Black Hairy Caterpillar        | Caterpillar | Defoliator            |
+| 3  | Cutworm                        | Lepidoptera | Rootstem cutter       |
+| 4  | Field Cricket                  | Orthoptera  | Omnivorous            |
+| 5  | Jute Aphid                     | Hemiptera   | Sap sucker            |
+| 6  | Jute Hairy Caterpillar         | Caterpillar | Leaf feeder           |
+| 7  | Jute Red Mite                  | Acari       | Sap sucker            |
+| 8  | Jute Semilooper                | Lepidoptera | Defoliator            |
+| 9  | Jute Stem Girdler              | Coleoptera  | Stem borer            |
+|10  | Jute Stem Weevil               | Coleoptera  | Stem borer            |
+|11  | Leaf Beetle                    | Coleoptera  | Leaf feeder           |
+|12  | Mealybug                       | Hemiptera   | Sap sucker            |
+|13  | Pod Borer                      | Lepidoptera | Podseed feeder        |
+|14  | Scopula Emissaria              | Lepidoptera | Defoliator            |
+|15  | Termite                        | Isoptera    | Woodcellulose feeder |
+|16  | Termite odontotermes (Rambur)  | Isoptera    | Soilroot feeder       |
+|17  | Yellow Mite                    | Acari       | Sap sucker            |
 
 ## 📊 Model Performance & Specifications
 
@@ -129,13 +131,14 @@ The system can accurately identify and classify 17 different jute pest species
 
 ### 📸 Image Guidelines
 
- ✅ Good Images  ❌ Avoid 
---------------------------------
- Clear, focused pest  Blurry or out-of-focus 
- Good lighting  Too darkbright 
- Pest fills frame  Pest too small 
- Single pest visible  Multiple pests 
- Natural colors  Heavy filters 
+| ✅ Good Images            | ❌ Avoid                    |
+|--------------------------|-----------------------------|
+| Clear, focused pest      | Blurry or out-of-focus      |
+| Good lighting            | Too dark / too bright       |
+| Pest fills frame         | Pest too small              |
+| Single pest visible      | Multiple pests              |
+| Natural colors           | Heavy filters               |
+
 
 ## ⚡ Performance Optimization
 
@@ -269,10 +272,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-div align=center
+<div align="center">
 
-⭐ Star this repository if it helped you!
+⭐ Star this repository if it helped you! <br> Made with ❤️ for the agricultural community
 
-Made with ❤️ for the agricultural community
+</div>
 
-div
